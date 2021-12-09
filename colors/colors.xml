@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<colors>
+  <color id="loginGradientColor" color="#726380"/>
+  <color id="loadingWheelColor" color="#d9d9d9"/>
+  <color id="windowBackgroundColor" color="#100c09"/>
+  <color id="whiteColor" color="#ffffff"/>
+  <color id="HPColor" color="#c73050"/>
+  <color id="scrollFleshColor" color="#1a1524"/>
+  <color id="oddCellColor" color="#5b5a66"/>
+  <color id="evenCellColor" color="#3e3e42"/>
+  <color id="progressBarDefaultColor" color="#847796"/>
+  <color id="textDarkTextEditorColor" color="#ffffff"/>
+  <color id="mecanicLightBlueColor" color="#ffffff"/>
+  <color id="mecanicDarkBlueColor" color="#ffffff"/>
+  <color id="mecanicBlueColor" color="#ffffff"/>
+  <color id="defaultDarkColor" color="#4a4652"/>
+  <color id="defaultBlackColor" color="#ffffff"/>
+  <color id="xpColor" color="#937fc9"/>
+  <color id="xpColorCompanion" color="#8a72b8"/>
+  <color id="defaultDarkGreyColor" color="#ffffff"/>
+  <color id="APColor" color="#ffffff"/>
+</colors>
