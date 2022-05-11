@@ -1,22 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <colors>
-  <color id="loginGradientColor" color="#726380"/>
-  <color id="loadingWheelColor" color="#d9d9d9"/>
-  <color id="windowBackgroundColor" color="#100c09"/>
+  <color id="loginGradientColor" color="#1f1f1f"/>
+  <color id="loadingWheelColor" color="#e6e6e6"/>
+  <color id="windowBackgroundColor" color="#483a54"/>
   <color id="whiteColor" color="#ffffff"/>
-  <color id="HPColor" color="#c73050"/>
-  <color id="scrollFleshColor" color="#1a1524"/>
+  <color id="HPColor" color="#b00c00"/>
+  <color id="scrollFleshColor" color="#d2d0d6"/>
   <color id="oddCellColor" color="#5b5a66"/>
   <color id="evenCellColor" color="#3e3e42"/>
-  <color id="progressBarDefaultColor" color="#847796"/>
-  <color id="textDarkTextEditorColor" color="#ffffff"/>
+  <color id="progressBarDefaultColor" color="#745e91"/>
+  <color id="textDarkTextEditorColor" color="#121212"/>
   <color id="mecanicLightBlueColor" color="#ffffff"/>
   <color id="mecanicDarkBlueColor" color="#ffffff"/>
   <color id="mecanicBlueColor" color="#ffffff"/>
-  <color id="defaultDarkColor" color="#4a4652"/>
-  <color id="defaultBlackColor" color="#ffffff"/>
+  <color id="defaultDarkColor" color="#15121a"/>
+  <color id="defaultBlackColor" color="#000000"/>
   <color id="xpColor" color="#937fc9"/>
   <color id="xpColorCompanion" color="#8a72b8"/>
-  <color id="defaultDarkGreyColor" color="#ffffff"/>
-  <color id="APColor" color="#ffffff"/>
+  <color id="defaultDarkGreyColor" color="#121212"/>
+  <color id="tooltipBackgroundColor" color="#827894"/>
+  <color id="playerTeamHPColor" color="#5a3a91"/>
+  <color id="enemyTeamHPColor" color="#b00c00"/>
+  <color id="dungeonLadderRankingColor" color="#26202e"/>
 </colors>
